@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.playground {
+    background-color: black;
+    width: 100vh;
+    height: 100vh;
+    margin: auto;
+}
+
+.player {
+    background-color: green;
+    width: 5vh;
+    height: 5vh;
+    position: relative;
+    left: 5vh;
+    top: 5vh;
+}
